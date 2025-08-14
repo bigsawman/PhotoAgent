@@ -19,8 +19,10 @@ The system supports complex scenarios requiring both **semantic intent comprehen
 ---
 
 ## 🎥 Demo Video
-[▶️ Watch the demo](demo/demo.mp4)  
-[![Demo Thumbnail](assets/overview_photoagent.png)](demo/demo.mp4)
+<video width="100%" controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
