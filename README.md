@@ -19,7 +19,7 @@ The system supports complex scenarios requiring both **semantic intent comprehen
 ---
 
 ## 🎥 Demo Video
-[![Watch the demo](assets/overview_photoagent.png)](demo/demo.mp4)
+[![Watch the demo](assets/demo.jpg)](demo/demo.mp4)
 
 ---
 
