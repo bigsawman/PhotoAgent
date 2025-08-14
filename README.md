@@ -9,19 +9,10 @@ The system supports complex scenarios requiring both **semantic intent comprehen
 
 ---
 
-## 📄 Paper & Appendix
-- **arXiv complete version (Main Paper + Appendix): _coming soon_**  
-- **Appendix PDF**: [Download Appendix](assets/appendix_examples.pdf)
-  - Detailed methodology breakdown
-  - Additional experimental results
-  - Extended visual examples
-
----
-
 ## 🎥 Demo Video
 <!-- [![Watch the demo](assets/demo.jpg)](demo/demo.mp4) -->
 
-https://github.com/user-attachments/assets/150ccece-d47a-4194-86f2-6ae271c5213c
+https://github.com/user-attachments/assets/b7cb9122-e4b8-44b5-998e-1548633c58c4
 
 ---
 
@@ -34,6 +25,15 @@ https://github.com/user-attachments/assets/150ccece-d47a-4194-86f2-6ae271c5213c
 ### 2) Experimental Scenes
 **The eight scenarios used in our experiments.**  
 ![Experimental Scenes](assets/experimental_scenes.png)
+
+---
+
+## 📄 Paper & Appendix
+- **arXiv complete version (Main Paper + Appendix): _coming soon_**  
+- **Appendix PDF**: [Download Appendix](assets/appendix_examples.pdf)
+  - Detailed methodology breakdown
+  - Additional experimental results
+  - Extended visual examples
 
 ---
 
