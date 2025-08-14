@@ -20,7 +20,9 @@ The system supports complex scenarios requiring both **semantic intent comprehen
 
 ## 🎥 Demo Video
 <!-- [![Watch the demo](assets/demo.jpg)](demo/demo.mp4) -->
+
 https://github.com/user-attachments/assets/150ccece-d47a-4194-86f2-6ae271c5213c
+
 ---
 
 ## 🖼 Visual Highlights
